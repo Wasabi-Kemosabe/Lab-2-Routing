@@ -1,0 +1,21 @@
+.menu {
+  background-color: bisque;
+  padding: 10px 20px;
+  margin-top: 0px;
+  border-right: 1px solid rgb(0, 61, 63);
+}
+
+.menu li {
+  padding: 5px;
+  display: inline-block;
+  width: 130px;
+  text-decoration: none;
+  cursor: pointer;
+  list-style-type: none;
+}
+
+.menu li:hover {
+  font-weight: bold;
+  color: darkturquoise;
+  text-decoration: underline;
+}
